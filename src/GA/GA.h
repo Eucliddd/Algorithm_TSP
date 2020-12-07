@@ -4,7 +4,7 @@
 #ifndef TSP_GA_H
 #define TSP_GA_H
 
-#include "Greedy.h"
+#include "../Greedy/Greedy.h"
 //n顶点数
 //distance距离函数
 struct GA{

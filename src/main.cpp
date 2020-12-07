@@ -1,11 +1,11 @@
 #include <iostream>
-#include "SA.h"
-#include "GA.h"
-#include "Nearest.h"
-#include "OPT-2.h"
-#include "AntColony.h"
-#include "Tabu.h"
-#include "ChainPath.h"
+#include "SA/SA.h"
+#include "GA/GA.h"
+#include "Nearest/Nearest.h"
+#include "OPT-2/OPT-2.h"
+#include "AntColony/AntColony.h"
+#include "Tabu/Tabu.h"
+#include "ChainPath/ChainPath.h"
 #include <ctime>
 
 #define GUI 1

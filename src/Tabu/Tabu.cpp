@@ -6,7 +6,7 @@
 #define NEIS 0.5    //局部搜索的大小
 #define MAXTIMES 5000 //最大迭代次数
 #include "Tabu.h"
-#include "Greedy.h"
+#include "../Greedy/Greedy.h"
 
 //#define TMPANS
 namespace TABU {
