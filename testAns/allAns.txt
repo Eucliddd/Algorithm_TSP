@@ -1,0 +1,1 @@
+TSPLIB.Instance,opt.Tour_Length,opt.Running_Time,Nearest.Tour_Length,Nearest.Running_Time,AS.Tour_Length,AS.Running_Time,SA.Tour_Length,SA.Running_Time,GA.Tour_Length,GA.Running_Time,Tabu.Tour_Length,Tabu.Running_Time,Chain.Tour_Length,Chain.Running_Time

@@ -1,0 +1,5 @@
+环境：clion
+由于clion生成的exe文件在cmake-build-debug路径下，因此路径格式为其上一级路径即../exdata
+在其他ide中运行请根据exe生成的位置修改路径
+exdata文件夹下是tsplib实例
+testAns文件夹下是输出的实验数据

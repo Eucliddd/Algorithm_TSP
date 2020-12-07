@@ -1,0 +1,2 @@
+TSPLIB.Instance,Tour_Length,Running_Time
+d198.tsp,18670,0.031
